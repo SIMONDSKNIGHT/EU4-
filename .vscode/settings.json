@@ -1,0 +1,4 @@
+{
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "breadcrumbs.showTypeParameters": false
+}
